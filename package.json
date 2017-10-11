@@ -9,5 +9,9 @@
     "promise"
   ],
   "author": "Igor Katsuba <katsuba.igor@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Defenderbass/aborted-promise.git"
+  }
 }
