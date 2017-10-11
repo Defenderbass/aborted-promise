@@ -1,0 +1,13 @@
+{
+  "name": "aborted-promise",
+  "version": "0.0.1",
+  "description": "Cancelable promise",
+  "main": "index.js",
+  "keywords": [
+    "cancel",
+    "abort",
+    "promise"
+  ],
+  "author": "Igor Katsuba <katsuba.igor@gmail.com>",
+  "license": "MIT"
+}
