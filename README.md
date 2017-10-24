@@ -1,5 +1,7 @@
 # CancelablePromise
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Defenderbass/aborted-promise.svg)](https://greenkeeper.io/)
+
 <span style="color:red">ONLY JAVASRIPT ENGINES WITH INHERITANCE SUPPORT FOR NATIVE OBJECTS!</span>
 
 ```js
